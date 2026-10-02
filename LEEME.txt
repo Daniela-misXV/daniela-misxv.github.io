@@ -1,0 +1,25 @@
+INVITACIÓN DANIELA — CREACIONES MUSH
+
+Abre index.html para ver la invitación. Para publicarla, sube index.html, style.css, script.js y la carpeta assets juntos a la raíz del repositorio o alojamiento.
+
+Incluye:
+- Sobre azul con sello de entrada y transición.
+- Fotografías y adornos del modelo suministrado como referencia.
+- Apariciones suaves al bajar por la página.
+- Calendario de octubre de 2026 y cuenta regresiva al 15 de octubre.
+- Tarjetas de celebración y vestimenta.
+- Formulario que abre WhatsApp al +51 902136143. El invitado debe pulsar Enviar dentro de WhatsApp. La página no guarda los datos.
+- Carrusel automático con botones, puntos, pausa, teclado y gesto deslizable.
+- Lluvia de sobres con ventana de detalles.
+- Cierre floral y firma Creaciones Mush.
+- Botón de música con melodía instrumental sencilla sintetizada, activada voluntariamente. No es la canción del modelo.
+
+DATOS POR COMPLETAR
+- Hora de la celebración: por confirmar.
+- Nombres de padres y padrinos: pendientes, sin copiar personas ajenas.
+- Las fotos son referenciales; sustituir por las de Daniela si se desea.
+- Vestimenta y restricciones se conservaron de las capturas: sport elegante, azul reservado y sin niños.
+- No se incluyeron cuentas bancarias ajenas. Los detalles de regalos indican entrega de sobre en la fiesta.
+- Fecha y lugar conservados: 15 de octubre de 2026; Calle Rufino Albarracín 867, Para Chico, Tacna.
+
+No requiere instalación ni servicios de pago. Mantén la estructura de archivos para que funcionen las imágenes y tipografías.
